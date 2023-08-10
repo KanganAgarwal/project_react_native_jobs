@@ -42,4 +42,4 @@ This will start the development server and provide you with a QR code. You can s
 Contributions are welcome! If you find any issues or want to add new features, feel free to submit a pull request.
 
 
-Replace `'YOUR_API_KEY'` in the `.env.local` file with your actual JSearch API key. This README template includes instructions on how to clone the repository, install dependencies, and run the app using Expo. It also mentions how to contribute to the project and provides licensing information. Make sure to place the `LICENSE` file in the project directory with the appropriate license details.
+Replace `'YOUR_API_KEY'` in the `.env.local` file with your actual JSearch API key. This README template includes instructions on how to clone the repository, install dependencies, and run the app using Expo. 
